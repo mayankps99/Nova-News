@@ -1,6 +1,6 @@
 ## Nova News ![Dart CI](https://github.com/TheAlphamerc/flutter_news_app/workflows/Dart%20CI/badge.svg)
 
-<img src="screenshot/MockUp.jpeg" width=1050px height=600px>
+<img src="screenshot/MockUp.jpeg" width=875px height=500px>
 
 A Nova News is a news app built with Flutter. In this app, there is a Home page, which will display top stories from Times Of India RSS feeds. News categories ranges from sports to health. You can choose news category displayed on Main page. 
 
